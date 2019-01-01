@@ -1,2 +1,1 @@
-# cyclefitness
-A website for a bicycle company
+# cyclefitness.github.io
